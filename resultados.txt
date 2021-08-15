@@ -1,0 +1,19 @@
+Datos de los competidores:
+
+El jugador Lola conduce un Aston Martin DB9 tiene como piloto a Danica Patrick
+El jugador Pepe conduce un Jaguar XF tiene como piloto a Daniel Suarez
+El jugadorRaul conduce un Mercedes-Benz SLK tiene como piloto aDimitri Keselowski
+
+En la pista Daytona
+Lola obtuvo el Tercer lugar
+Pepe obtuvo el Primer lugar
+Raul obtuvo el Segundo lugar
+
+En la pista Bristol
+Lola obtuvo el Tercer lugar
+Pepe obtuvo el Primer lugar
+Raul obtuvo el Segundo lugar
+
+En la pista IndianaPolis
+Pepe obtuvo el Primer lugar
+los jugadores Lola,Raul empataron el Segundo lugar
